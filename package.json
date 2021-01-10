@@ -1,0 +1,9 @@
+{
+  "name": "test-hast-util-raw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hast-util-raw": "^6.0.2"
+  }
+}
