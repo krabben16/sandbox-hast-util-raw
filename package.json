@@ -1,5 +1,5 @@
 {
-  "name": "test-hast-util-raw",
+  "name": "sandbox-hast-util-raw",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
